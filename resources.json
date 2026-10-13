@@ -1,0 +1,33 @@
+{
+  "last_updated": "2026-10-13",
+  "groups": [
+    {
+      "title": "Programming",
+      "intro": "Build a foundation in Python and working with data.",
+      "resources": [
+        {"title": "Python for Everybody", "detail": "University of Michigan · Coursera", "description": "An introduction to Python, data structures, APIs, and databases.", "url": "https://www.coursera.org/specializations/python", "format": "Course"},
+        {"title": "Automate the Boring Stuff with Python", "detail": "Al Sweigart · Third edition · Free to read online", "description": "Learn Python through practical projects that automate everyday tasks.", "url": "https://automatetheboringstuff.com/", "format": "Book"},
+        {"title": "Data Science from Scratch", "detail": "Joel Grus · Second edition", "description": "Learn Python and the ideas behind data science by implementing algorithms from scratch.", "url": "https://www.oreilly.com/library/view/data-science-from/9781492041122/", "format": "Book"}
+      ]
+    },
+    {
+      "title": "AI and machine learning",
+      "intro": "Learn the concepts, then practice with code.",
+      "resources": [
+        {"title": "Machine Learning Specialization", "detail": "DeepLearning.AI and Stanford Online · Andrew Ng", "description": "Foundations of supervised and unsupervised machine learning, with programming exercises.", "url": "https://www.deeplearning.ai/specializations/machine-learning/", "format": "Courses"},
+        {"title": "Deep Learning Specialization", "detail": "DeepLearning.AI · Andrew Ng", "description": "Neural networks, deep learning, and convolutional neural networks for computer vision.", "url": "https://www.deeplearning.ai/specializations/deep-learning/", "format": "Courses"},
+        {"title": "fast.ai", "detail": "Practical Deep Learning for Coders", "description": "An applied deep learning course with runnable notebooks and a companion book.", "url": "https://course.fast.ai/", "format": "Course"},
+        {"title": "Kaggle", "detail": "Learn", "description": "Short exercises in Python, machine learning, data preparation, and computer vision.", "url": "https://www.kaggle.com/learn/", "format": "Exercises"}
+      ]
+    },
+    {
+      "title": "Radiology AI",
+      "intro": "Apply those skills to medical images.",
+      "resources": [
+        {"title": "MIDeL", "detail": "Medical Image Deep Learning · Mayo Clinic", "description": "Medical imaging deep learning lessons from Mayo Clinic’s Radiology Informatics Lab.", "url": "https://mayo-radiology-informatics-lab.github.io/MIDeL/chapters.html", "format": "Lessons"},
+        {"title": "Magician’s Corner", "detail": "Radiology: Artificial Intelligence · RSNA", "description": "A hands-on article series explaining deep learning through medical imaging examples.", "url": "https://pubs.rsna.org/page/ai/magicians_corner", "format": "Articles", "extra": {"label": "Example notebooks", "url": "https://github.com/RSNA/MagiciansCorner"}},
+        {"title": "MONAI", "detail": "Tutorials", "description": "Medical imaging notebooks for data loading, classification, segmentation, and more.", "url": "https://github.com/Project-MONAI/tutorials", "format": "Notebooks"}
+      ]
+    }
+  ]
+}
